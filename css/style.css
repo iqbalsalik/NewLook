@@ -395,7 +395,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(../images/mainBG1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -413,7 +413,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top2 {
-    background: url(../images/banner3.jpg) no-repeat 0px 0px;
+    background: url(../images/mainBG21.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -422,7 +422,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top3 {
-    background: url(../images/banner4.jpg) no-repeat center;
+    background: url(../images/mainBG3.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -591,7 +591,7 @@ h5.bottom {
 	color: #da9d40;
 }
 .bg-image-left {
-    background: url(../images/4.jpg) no-repeat center;
+    background: url(../images/bglady.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -611,7 +611,7 @@ h5.bottom {
 	margin: 5px;
 }
 .bg-image-bottom1 {
-    background: url(../images/3.jpg) no-repeat center;
+    background: url(../images/pexels-enginakyurt-3331486.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -974,7 +974,7 @@ li.breadcrumb-item a {
     background: rgba(0, 0, 0, 0.6);
 }
 .discount-grid {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/aboutUsMain2.jpg) no-repeat center;
     background-size: cover;
 }
 .discount-grid p {
